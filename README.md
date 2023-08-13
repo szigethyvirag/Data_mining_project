@@ -1,0 +1,5 @@
+# Data_mining_project
+Data Mining project work for University in Python
+
+The goal of the assignment is to gain experience with a number of explorative data analysis techniques, learning, pre-processing, learning and tuning algorithms we have learned about and optionally beyond that. 
+The dataset consists of data collected from heavy Scania trucks in everyday usage. The system in focus is the Air Pressure system (APS) which generates pressurized air that are utilized in various functions in a truck, such as braking and gear changes. The dataset’s positive class consists of component failures for a specific component of the APS system. The negative class consists of trucks with failures for components not related to the APS. The data consists of a subset of all available data, selected by experts. The goal is to predict whether the APS system has a failure and should be repaired, too.  A false positive prediction means that the mechanics checks the APS system unnecessarily, a false negative prediction that it is faulty, but not checked. Obviously, the latter has larger negative consequences.
